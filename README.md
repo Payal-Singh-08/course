@@ -1,2 +1,0 @@
-# course
-Front End Developer

@@ -1,0 +1,46 @@
+/* Your basic styling here */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    /* background-color: rgb(115, 70, 159); */
+  }
+
+  h3{
+     color: rgb(177, 65, 162);
+  }
+   h2{
+       color: rgb(28, 95, 38);
+   }
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  main {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  label,
+  input,
+  textarea {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input[type="submit"] {
+    padding: 8px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
